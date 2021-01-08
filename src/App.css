@@ -1,0 +1,22 @@
+body{
+
+  background-color: #9266ff;
+}
+.App{
+background-color: #3f3160;
+min-height: 500px;
+width: 400px;
+margin:  40px auto;
+
+}
+
+#to-do-form button{
+  height: 50px;
+  width: 80px;
+  border-radius: 5px;
+  border: 0;
+  background-color: rgb(202,156,24);
+  cursor: pointer;
+  font-weight: bolder;
+  color: #fff;
+}
